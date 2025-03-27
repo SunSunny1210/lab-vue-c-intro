@@ -1,6 +1,6 @@
 <script setup>
 import Header from './components/Header.vue'
-
+import MainSection from './components/MainSection.vue'
 </script>
 
 <template>
